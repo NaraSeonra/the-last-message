@@ -1,0 +1,4 @@
+{
+  "_comment": "Daftar berkas audio lokal opsional. Tambahkan nama berkas yang tersedia di folder ini (mis. \"bgm.mp3\", \"notify.mp3\"). Berkas yang tidak tercantum akan diganti suara sintetis.",
+  "files": []
+}
